@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8">
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+  <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.45.0/mapbox-gl.js'></script>
+  <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.45.0/mapbox-gl.css' rel='stylesheet' />
+  <style>
+    body { margin:0;position:fixed;top:0;right:0;bottom:0;left:0; }
+    #map { position:absolute; top:0; bottom:0; width: 100%; }
+    #controls {
+      position:fixed; z-index:10; bottom: 0px; left: 0px;
+      width: 200px;
+      height: 50px;
+      background-color: white;
+      padding: 15px;
+    }
+    h3 {
+      margin-top: 0px;
+      margin-bottom: 0px;
+    }
+    #selectedYear, input {
+      display: inline-block;
+      cursor: pointer;
+    }
+  </style>
+</head>
+
+<!-- GOAL: Add the other layers -->
+
+<body>
+
+  <!-- This is where the map is going to live -->
+  <div id="map"></div>
+
+  <!-- This is the section in the bottom left corner -->
+  <div id="controls" style="display:none;">
+    <h3>Building Year Built</h3>
+    <div id="selectedYear">1850</div>
+    <!-- This is the slider -->
+    <input id="dataRange" type="range" min="1850" max="2015" value="1850"/>
+  </div>
+
+
+  <script>
+
+    // First, we need to setup mapbox and show a basemap
+	mapboxgl.accessToken = 'pk.eyJ1IjoiZGV2ZWxvcG1lbnRkaGEiLCJhIjoiY2pneXh4ZHE0MDk4ajJ6cjQwOXlnbTJ2cCJ9.TwugsjyGEfRu6olTkqlBnw';
+    var map = new mapboxgl.Map({
+      container: 'map',
+      // Background map style
+      style: 'mapbox://styles/mapbox/light-v9',
+      // San Francisco coordinates
+      center: [-1, 52],
+      zoom: 5,
+      // Controlling how much the user can zoom in or out
+      minZoom: 1,
+      maxZoom: 20
+    });
+
+    // The code to add the layers and interactivity is run after
+    // the map is loaded
+    map.on('load', function () {
+
+        // EX: Add a list of layer sources
+
+        // EX: Setup empty array of layers instead of named ones
+
+        // EX: Loop through four layers of our buildings shapefile
+
+        // EX: Change all instances of layer01 to layer0...
+
+        var layer01 = map.addLayer({
+          'id': 'layer01',
+          'type': 'fill',
+          'source': {
+            type: 'vector',
+            // url:"mapbox://henryjameslau.bnl1un8q"
+            url: 'https://maps.tilehosting.com/c/9b29dd2c-248e-459d-9dc5-28f4e358657d/data/median2.json?key=7rA0yA362pBi9PZxyYlY'
+          },
+          'source-layer': 'median2',
+          'paint': {
+            'fill-opacity':0.8,
+            'fill-color': {
+                // Refers to the data of that specific property of the polygon
+              'property': 'medianprice',
+              // Prevents interpolation of colors between stops
+              'base': 0,
+              // Stops are an array of two element arrays:
+              // [value_of_property, color]
+              // The color applies to values equal or below the value_of_property
+              'stops': [
+                [0, 'black'],
+                [26500, 'white'],
+                [68500, '#eff3ff'],
+                [95000, '#c6dbef'],
+                [135000, '#9ecae1'],
+                [192000, '#6baed6'],
+                [324950, '#3182bd'],
+                [Infinity, '#08519c']
+              ]
+            }
+
+          }
+        });
+
+
+
+
+        // Let the user see the year built of the building that is clicked
+        // https://www.mapbox.com/mapbox-gl-js/example/polygon-popup-on-click/
+        map.on('click', 'layer01', function (e) {
+          new mapboxgl.Popup()
+            .setLngLat(e.lngLat)
+            .setHTML(e.features[0].properties['medianprice'])
+            .addTo(map);
+        });
+
+        // Instead of the move cursor, set the mouse cursor to be
+        // "pointing finger" one when hovering over a building
+        // https://www.mapbox.com/mapbox-gl-js/example/popup-on-hover/
+        map.on('mouseenter', 'layer01', function(e) {
+            map.getCanvas().style.cursor = 'pointer';
+        })
+        map.on('mouseleave', 'layer01', function(e) {
+            map.getCanvas().style.cursor = '';
+        })
+
+        // When the user clicks, finishes dragging, or finishing typing
+        // when the slider is selected, update the visualization
+        d3.select('#dataRange').on('click', function() {
+          updateData(+this.value);
+        });
+        d3.select('#dataRange').on('mouseup', function() {
+          updateData(+this.value);
+        });
+        d3.select('#dataRange').on('keyup', function() {
+          updateData(+this.value);
+        });
+
+        // Update the visualization based on the updated data
+        function updateData(value){
+          d3.select('#selectedYear').text(value);
+          d3.select('#dataRange').property('value', value);
+
+          // EX: Update all four layers
+
+            layer01.setPaintProperty('layer01', 'fill-color',
+              {
+                'property': 'sf_yr_blt',
+                'base': 0,
+                'stops': [
+                  [0, 'rgba(0,0,0,0)'],
+                  [value-15, 'rgba(0,0,0,0)'],
+                  [value-10, 'rgba(255,165,0,0.5)'],
+                  [value-5, 'orange'],
+                  [value, 'red'],
+                  [Infinity, 'rgba(0,0,0,0)']
+                ]
+              })
+        }
+
+
+        // Clicking on the year text will cause the visualization to
+        // self-animate.
+        var timer = null;
+        d3.select('#selectedYear').on('click', function(){
+
+            if (timer === null) {
+              timer = setInterval(function(){
+                var currValue = +d3.select('#dataRange').property('value');
+                if (currValue === 2015) currValue = 1849;
+                var newValue = currValue + 1;
+                updateData(newValue);
+              }, 300)
+            } else {
+              clearInterval(timer);
+              timer = null;
+            }
+
+        })
+
+    });
+
+  </script>
+</body>
