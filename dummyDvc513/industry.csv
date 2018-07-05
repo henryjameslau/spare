@@ -1,0 +1,512 @@
+﻿Industry code,Industry name,Year,P10,P25,P50,P75,P90,Mean
+1 to 3,"Agriculture, forestry and fishing",2010,1,2,3,4,5,3
+5 to 9,Mining and quarrying,2010,1,2,3,4,5,3
+10,Manufacture of food products,2010,1,2,3,4,5,3
+11,Manufacture of beverages,2010,1,2,3,4,5,3
+13,Manufacture of textiles,2010,1,2,3,4,5,3
+14,Manufacture of wearing apparel,2010,1,2,3,4,5,3
+15,Manufacture of leather and related products,2010,1,2,3,4,5,3
+16,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",2010,1,2,3,4,5,3
+17,Manufacture of paper and paper products,2010,1,2,3,4,5,3
+18,Printing and reproduction of recorded media,2010,1,2,3,4,5,3
+19,Manufacture of coke and refined petroleum products,2010,1,2,3,4,5,3
+20,Manufacture of chemicals and chemical products,2010,1,2,3,4,5,3
+21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,2010,1,2,3,4,5,3
+22,Manufacture of rubber and plastic products,2010,1,2,3,4,5,3
+23,Manufacture of other non-metallic mineral products,2010,1,2,3,4,5,3
+24,Manufacture of basic metals,2010,1,2,3,4,5,3
+25,"Manufacture of fabricated metal products, except machinery and equipment",2010,1,2,3,4,5,3
+26,"Manufacture of computer, electronic and optical products",2010,1,2,3,4,5,3
+27,Manufacture of electrical equipment,2010,1,2,3,4,5,3
+28,Manufacture of machinery and equipment n.e.c.,2010,1,2,3,4,5,3
+29,"Manufacture of motor vehicles, trailers and semi-trailers",2010,1,2,3,4,5,3
+30,Manufacture of other transport equipment,2010,1,2,3,4,5,3
+31,Manufacture of furniture,2010,1,2,3,4,5,3
+32,Other manufacturing,2010,1,2,3,4,5,3
+33,Repair and installation of machinery and equipment,2010,1,2,3,4,5,3
+35,"Electricity, gas, steam and air conditioning supply",2010,1,2,3,4,5,3
+36 to 37,"Water collection, treatment and supply and sewerage",2010,1,2,3,4,5,3
+38 to 39,"Waste collection, treatment and disposal activities; Remediation activities and other waste management services",2010,1,2,3,4,5,3
+41,Construction of buildings,2010,1,2,3,4,5,3
+42,Civil engineering,2010,1,2,3,4,5,3
+43,Specialised construction activities,2010,1,2,3,4,5,3
+45,Wholesale and retail trade and repair of motor vehicles and motorcycles,2010,1,2,3,4,5,3
+46,"Wholesale trade, except of motor vehicles and motorcycles",2010,1,2,3,4,5,3
+47,"Retail trade, except of motor vehicles and motorcycles",2010,1,2,3,4,5,3
+49,Land transport and transport via pipelines,2010,1,2,3,4,5,3
+50,Water transport,2010,1,2,3,4,5,3
+51,Air transport,2010,1,2,3,4,5,3
+52,Warehousing and support activities for transportation,2010,1,2,3,4,5,3
+53,Postal and courier activities,2010,1,2,3,4,5,3
+55,Accommodation,2010,1,2,3,4,5,3
+56,Food and beverage service activities,2010,1,2,3,4,5,3
+58,Publishing activities,2010,1,2,3,4,5,3
+59,"Motion picture, video and television programme production, sound recording and music publishing activities",2010,1,2,3,4,5,3
+60,Programming and broadcasting activities,2010,1,2,3,4,5,3
+61,Telecommunications,2010,1,2,3,4,5,3
+62,"Computer programming, consultancy and related activities",2010,1,2,3,4,5,3
+63,Information service activities,2010,1,2,3,4,5,3
+65,"Insurance, reinsurance and pension funding, except compulsory social security",2010,1,2,3,4,5,3
+68,Real estate activities,2010,1,2,3,4,5,3
+69,Legal and accounting activities,2010,1,2,3,4,5,3
+70,Activities of head offices; management consultancy activities,2010,1,2,3,4,5,3
+71,Architectural and engineering activities; technical testing and analysis,2010,1,2,3,4,5,3
+72,Scientific research and development,2010,1,2,3,4,5,3
+73,Advertising and market research,2010,1,2,3,4,5,3
+74,"Other professional, scientific and technical activities",2010,1,2,3,4,5,3
+75,Veterinary activities,2010,1,2,3,4,5,3
+77,Rental and leasing activities,2010,1,2,3,4,5,3
+78,Employment activities,2010,1,2,3,4,5,3
+79,"Travel agency, tour operator and other reservation service and related activities",2010,1,2,3,4,5,3
+80,Security and investigation activities,2010,1,2,3,4,5,3
+81,Services to buildings and landscape activities,2010,1,2,3,4,5,3
+82,"Office administrative, office support and other business support activities",2010,1,2,3,4,5,3
+85,Education,2010,1,2,3,4,5,3
+86,Human health activities,2010,1,2,3,4,5,3
+87,Residential care activities,2010,1,2,3,4,5,3
+88,Social work activities without accommodation,2010,1,2,3,4,5,3
+90,"Creative, arts and entertainment activities",2010,1,2,3,4,5,3
+91,"Libraries, archives, museums and other cultural activities",2010,1,2,3,4,5,3
+92,Gambling and betting activities,2010,1,2,3,4,5,3
+93,Sports activities and amusement and recreation activities,2010,1,2,3,4,5,3
+94,Activities of membership organisations,2010,1,2,3,4,5,3
+95,Repair of computers and personal and household goods,2010,1,2,3,4,5,3
+96,Other personal service activities,2010,1,2,3,4,5,3
+1 to 3,"Agriculture, forestry and fishing",2011,1,2,3,4,5,3
+5 to 9,Mining and quarrying,2011,1,2,3,4,5,3
+10,Manufacture of food products,2011,1,2,3,4,5,3
+11,Manufacture of beverages,2011,1,2,3,4,5,3
+13,Manufacture of textiles,2011,1,2,3,4,5,3
+14,Manufacture of wearing apparel,2011,1,2,3,4,5,3
+15,Manufacture of leather and related products,2011,1,2,3,4,5,3
+16,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",2011,1,2,3,4,5,3
+17,Manufacture of paper and paper products,2011,1,2,3,4,5,3
+18,Printing and reproduction of recorded media,2011,1,2,3,4,5,3
+19,Manufacture of coke and refined petroleum products,2011,1,2,3,4,5,3
+20,Manufacture of chemicals and chemical products,2011,1,2,3,4,5,3
+21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,2011,1,2,3,4,5,3
+22,Manufacture of rubber and plastic products,2011,1,2,3,4,5,3
+23,Manufacture of other non-metallic mineral products,2011,1,2,3,4,5,3
+24,Manufacture of basic metals,2011,1,2,3,4,5,3
+25,"Manufacture of fabricated metal products, except machinery and equipment",2011,1,2,3,4,5,3
+26,"Manufacture of computer, electronic and optical products",2011,1,2,3,4,5,3
+27,Manufacture of electrical equipment,2011,1,2,3,4,5,3
+28,Manufacture of machinery and equipment n.e.c.,2011,1,2,3,4,5,3
+29,"Manufacture of motor vehicles, trailers and semi-trailers",2011,1,2,3,4,5,3
+30,Manufacture of other transport equipment,2011,1,2,3,4,5,3
+31,Manufacture of furniture,2011,1,2,3,4,5,3
+32,Other manufacturing,2011,1,2,3,4,5,3
+33,Repair and installation of machinery and equipment,2011,1,2,3,4,5,3
+35,"Electricity, gas, steam and air conditioning supply",2011,1,2,3,4,5,3
+36 to 37,"Water collection, treatment and supply and sewerage",2011,1,2,3,4,5,3
+38 to 39,"Waste collection, treatment and disposal activities; Remediation activities and other waste management services",2011,1,2,3,4,5,3
+41,Construction of buildings,2011,1,2,3,4,5,3
+42,Civil engineering,2011,1,2,3,4,5,3
+43,Specialised construction activities,2011,1,2,3,4,5,3
+45,Wholesale and retail trade and repair of motor vehicles and motorcycles,2011,1,2,3,4,5,3
+46,"Wholesale trade, except of motor vehicles and motorcycles",2011,1,2,3,4,5,3
+47,"Retail trade, except of motor vehicles and motorcycles",2011,1,2,3,4,5,3
+49,Land transport and transport via pipelines,2011,1,2,3,4,5,3
+50,Water transport,2011,1,2,3,4,5,3
+51,Air transport,2011,1,2,3,4,5,3
+52,Warehousing and support activities for transportation,2011,1,2,3,4,5,3
+53,Postal and courier activities,2011,1,2,3,4,5,3
+55,Accommodation,2011,1,2,3,4,5,3
+56,Food and beverage service activities,2011,1,2,3,4,5,3
+58,Publishing activities,2011,1,2,3,4,5,3
+59,"Motion picture, video and television programme production, sound recording and music publishing activities",2011,1,2,3,4,5,3
+60,Programming and broadcasting activities,2011,1,2,3,4,5,3
+61,Telecommunications,2011,1,2,3,4,5,3
+62,"Computer programming, consultancy and related activities",2011,1,2,3,4,5,3
+63,Information service activities,2011,1,2,3,4,5,3
+65,"Insurance, reinsurance and pension funding, except compulsory social security",2011,1,2,3,4,5,3
+68,Real estate activities,2011,1,2,3,4,5,3
+69,Legal and accounting activities,2011,1,2,3,4,5,3
+70,Activities of head offices; management consultancy activities,2011,1,2,3,4,5,3
+71,Architectural and engineering activities; technical testing and analysis,2011,1,2,3,4,5,3
+72,Scientific research and development,2011,1,2,3,4,5,3
+73,Advertising and market research,2011,1,2,3,4,5,3
+74,"Other professional, scientific and technical activities",2011,1,2,3,4,5,3
+75,Veterinary activities,2011,1,2,3,4,5,3
+77,Rental and leasing activities,2011,1,2,3,4,5,3
+78,Employment activities,2011,1,2,3,4,5,3
+79,"Travel agency, tour operator and other reservation service and related activities",2011,1,2,3,4,5,3
+80,Security and investigation activities,2011,1,2,3,4,5,3
+81,Services to buildings and landscape activities,2011,1,2,3,4,5,3
+82,"Office administrative, office support and other business support activities",2011,1,2,3,4,5,3
+85,Education,2011,1,2,3,4,5,3
+86,Human health activities,2011,1,2,3,4,5,3
+87,Residential care activities,2011,1,2,3,4,5,3
+88,Social work activities without accommodation,2011,1,2,3,4,5,3
+90,"Creative, arts and entertainment activities",2011,1,2,3,4,5,3
+91,"Libraries, archives, museums and other cultural activities",2011,1,2,3,4,5,3
+92,Gambling and betting activities,2011,1,2,3,4,5,3
+93,Sports activities and amusement and recreation activities,2011,1,2,3,4,5,3
+94,Activities of membership organisations,2011,1,2,3,4,5,3
+95,Repair of computers and personal and household goods,2011,1,2,3,4,5,3
+96,Other personal service activities,2011,1,2,3,4,5,3
+1 to 3,"Agriculture, forestry and fishing",2012,1,2,3,4,5,3
+5 to 9,Mining and quarrying,2012,1,2,3,4,5,3
+10,Manufacture of food products,2012,1,2,3,4,5,3
+11,Manufacture of beverages,2012,1,2,3,4,5,3
+13,Manufacture of textiles,2012,1,2,3,4,5,3
+14,Manufacture of wearing apparel,2012,1,2,3,4,5,3
+15,Manufacture of leather and related products,2012,1,2,3,4,5,3
+16,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",2012,1,2,3,4,5,3
+17,Manufacture of paper and paper products,2012,1,2,3,4,5,3
+18,Printing and reproduction of recorded media,2012,1,2,3,4,5,3
+19,Manufacture of coke and refined petroleum products,2012,1,2,3,4,5,3
+20,Manufacture of chemicals and chemical products,2012,1,2,3,4,5,3
+21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,2012,1,2,3,4,5,3
+22,Manufacture of rubber and plastic products,2012,1,2,3,4,5,3
+23,Manufacture of other non-metallic mineral products,2012,1,2,3,4,5,3
+24,Manufacture of basic metals,2012,1,2,3,4,5,3
+25,"Manufacture of fabricated metal products, except machinery and equipment",2012,1,2,3,4,5,3
+26,"Manufacture of computer, electronic and optical products",2012,1,2,3,4,5,3
+27,Manufacture of electrical equipment,2012,1,2,3,4,5,3
+28,Manufacture of machinery and equipment n.e.c.,2012,1,2,3,4,5,3
+29,"Manufacture of motor vehicles, trailers and semi-trailers",2012,1,2,3,4,5,3
+30,Manufacture of other transport equipment,2012,1,2,3,4,5,3
+31,Manufacture of furniture,2012,1,2,3,4,5,3
+32,Other manufacturing,2012,1,2,3,4,5,3
+33,Repair and installation of machinery and equipment,2012,1,2,3,4,5,3
+35,"Electricity, gas, steam and air conditioning supply",2012,1,2,3,4,5,3
+36 to 37,"Water collection, treatment and supply and sewerage",2012,1,2,3,4,5,3
+38 to 39,"Waste collection, treatment and disposal activities; Remediation activities and other waste management services",2012,1,2,3,4,5,3
+41,Construction of buildings,2012,1,2,3,4,5,3
+42,Civil engineering,2012,1,2,3,4,5,3
+43,Specialised construction activities,2012,1,2,3,4,5,3
+45,Wholesale and retail trade and repair of motor vehicles and motorcycles,2012,1,2,3,4,5,3
+46,"Wholesale trade, except of motor vehicles and motorcycles",2012,1,2,3,4,5,3
+47,"Retail trade, except of motor vehicles and motorcycles",2012,1,2,3,4,5,3
+49,Land transport and transport via pipelines,2012,1,2,3,4,5,3
+50,Water transport,2012,1,2,3,4,5,3
+51,Air transport,2012,1,2,3,4,5,3
+52,Warehousing and support activities for transportation,2012,1,2,3,4,5,3
+53,Postal and courier activities,2012,1,2,3,4,5,3
+55,Accommodation,2012,1,2,3,4,5,3
+56,Food and beverage service activities,2012,1,2,3,4,5,3
+58,Publishing activities,2012,1,2,3,4,5,3
+59,"Motion picture, video and television programme production, sound recording and music publishing activities",2012,1,2,3,4,5,3
+60,Programming and broadcasting activities,2012,1,2,3,4,5,3
+61,Telecommunications,2012,1,2,3,4,5,3
+62,"Computer programming, consultancy and related activities",2012,1,2,3,4,5,3
+63,Information service activities,2012,1,2,3,4,5,3
+65,"Insurance, reinsurance and pension funding, except compulsory social security",2012,1,2,3,4,5,3
+68,Real estate activities,2012,1,2,3,4,5,3
+69,Legal and accounting activities,2012,1,2,3,4,5,3
+70,Activities of head offices; management consultancy activities,2012,1,2,3,4,5,3
+71,Architectural and engineering activities; technical testing and analysis,2012,1,2,3,4,5,3
+72,Scientific research and development,2012,1,2,3,4,5,3
+73,Advertising and market research,2012,1,2,3,4,5,3
+74,"Other professional, scientific and technical activities",2012,1,2,3,4,5,3
+75,Veterinary activities,2012,1,2,3,4,5,3
+77,Rental and leasing activities,2012,1,2,3,4,5,3
+78,Employment activities,2012,1,2,3,4,5,3
+79,"Travel agency, tour operator and other reservation service and related activities",2012,1,2,3,4,5,3
+80,Security and investigation activities,2012,1,2,3,4,5,3
+81,Services to buildings and landscape activities,2012,1,2,3,4,5,3
+82,"Office administrative, office support and other business support activities",2012,1,2,3,4,5,3
+85,Education,2012,1,2,3,4,5,3
+86,Human health activities,2012,1,2,3,4,5,3
+87,Residential care activities,2012,1,2,3,4,5,3
+88,Social work activities without accommodation,2012,1,2,3,4,5,3
+90,"Creative, arts and entertainment activities",2012,1,2,3,4,5,3
+91,"Libraries, archives, museums and other cultural activities",2012,1,2,3,4,5,3
+92,Gambling and betting activities,2012,1,2,3,4,5,3
+93,Sports activities and amusement and recreation activities,2012,1,2,3,4,5,3
+94,Activities of membership organisations,2012,1,2,3,4,5,3
+95,Repair of computers and personal and household goods,2012,1,2,3,4,5,3
+96,Other personal service activities,2012,1,2,3,4,5,3
+1 to 3,"Agriculture, forestry and fishing",2013,1,2,3,4,5,3
+5 to 9,Mining and quarrying,2013,1,2,3,4,5,3
+10,Manufacture of food products,2013,1,2,3,4,5,3
+11,Manufacture of beverages,2013,1,2,3,4,5,3
+13,Manufacture of textiles,2013,1,2,3,4,5,3
+14,Manufacture of wearing apparel,2013,1,2,3,4,5,3
+15,Manufacture of leather and related products,2013,1,2,3,4,5,3
+16,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",2013,1,2,3,4,5,3
+17,Manufacture of paper and paper products,2013,1,2,3,4,5,3
+18,Printing and reproduction of recorded media,2013,1,2,3,4,5,3
+19,Manufacture of coke and refined petroleum products,2013,1,2,3,4,5,3
+20,Manufacture of chemicals and chemical products,2013,1,2,3,4,5,3
+21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,2013,1,2,3,4,5,3
+22,Manufacture of rubber and plastic products,2013,1,2,3,4,5,3
+23,Manufacture of other non-metallic mineral products,2013,1,2,3,4,5,3
+24,Manufacture of basic metals,2013,1,2,3,4,5,3
+25,"Manufacture of fabricated metal products, except machinery and equipment",2013,1,2,3,4,5,3
+26,"Manufacture of computer, electronic and optical products",2013,1,2,3,4,5,3
+27,Manufacture of electrical equipment,2013,1,2,3,4,5,3
+28,Manufacture of machinery and equipment n.e.c.,2013,1,2,3,4,5,3
+29,"Manufacture of motor vehicles, trailers and semi-trailers",2013,1,2,3,4,5,3
+30,Manufacture of other transport equipment,2013,1,2,3,4,5,3
+31,Manufacture of furniture,2013,1,2,3,4,5,3
+32,Other manufacturing,2013,1,2,3,4,5,3
+33,Repair and installation of machinery and equipment,2013,1,2,3,4,5,3
+35,"Electricity, gas, steam and air conditioning supply",2013,1,2,3,4,5,3
+36 to 37,"Water collection, treatment and supply and sewerage",2013,1,2,3,4,5,3
+38 to 39,"Waste collection, treatment and disposal activities; Remediation activities and other waste management services",2013,1,2,3,4,5,3
+41,Construction of buildings,2013,1,2,3,4,5,3
+42,Civil engineering,2013,1,2,3,4,5,3
+43,Specialised construction activities,2013,1,2,3,4,5,3
+45,Wholesale and retail trade and repair of motor vehicles and motorcycles,2013,1,2,3,4,5,3
+46,"Wholesale trade, except of motor vehicles and motorcycles",2013,1,2,3,4,5,3
+47,"Retail trade, except of motor vehicles and motorcycles",2013,1,2,3,4,5,3
+49,Land transport and transport via pipelines,2013,1,2,3,4,5,3
+50,Water transport,2013,1,2,3,4,5,3
+51,Air transport,2013,1,2,3,4,5,3
+52,Warehousing and support activities for transportation,2013,1,2,3,4,5,3
+53,Postal and courier activities,2013,1,2,3,4,5,3
+55,Accommodation,2013,1,2,3,4,5,3
+56,Food and beverage service activities,2013,1,2,3,4,5,3
+58,Publishing activities,2013,1,2,3,4,5,3
+59,"Motion picture, video and television programme production, sound recording and music publishing activities",2013,1,2,3,4,5,3
+60,Programming and broadcasting activities,2013,1,2,3,4,5,3
+61,Telecommunications,2013,1,2,3,4,5,3
+62,"Computer programming, consultancy and related activities",2013,1,2,3,4,5,3
+63,Information service activities,2013,1,2,3,4,5,3
+65,"Insurance, reinsurance and pension funding, except compulsory social security",2013,1,2,3,4,5,3
+68,Real estate activities,2013,1,2,3,4,5,3
+69,Legal and accounting activities,2013,1,2,3,4,5,3
+70,Activities of head offices; management consultancy activities,2013,1,2,3,4,5,3
+71,Architectural and engineering activities; technical testing and analysis,2013,1,2,3,4,5,3
+72,Scientific research and development,2013,1,2,3,4,5,3
+73,Advertising and market research,2013,1,2,3,4,5,3
+74,"Other professional, scientific and technical activities",2013,1,2,3,4,5,3
+75,Veterinary activities,2013,1,2,3,4,5,3
+77,Rental and leasing activities,2013,1,2,3,4,5,3
+78,Employment activities,2013,1,2,3,4,5,3
+79,"Travel agency, tour operator and other reservation service and related activities",2013,1,2,3,4,5,3
+80,Security and investigation activities,2013,1,2,3,4,5,3
+81,Services to buildings and landscape activities,2013,1,2,3,4,5,3
+82,"Office administrative, office support and other business support activities",2013,1,2,3,4,5,3
+85,Education,2013,1,2,3,4,5,3
+86,Human health activities,2013,1,2,3,4,5,3
+87,Residential care activities,2013,1,2,3,4,5,3
+88,Social work activities without accommodation,2013,1,2,3,4,5,3
+90,"Creative, arts and entertainment activities",2013,1,2,3,4,5,3
+91,"Libraries, archives, museums and other cultural activities",2013,1,2,3,4,5,3
+92,Gambling and betting activities,2013,1,2,3,4,5,3
+93,Sports activities and amusement and recreation activities,2013,1,2,3,4,5,3
+94,Activities of membership organisations,2013,1,2,3,4,5,3
+95,Repair of computers and personal and household goods,2013,1,2,3,4,5,3
+96,Other personal service activities,2013,1,2,3,4,5,3
+1 to 3,"Agriculture, forestry and fishing",2014,1,2,3,4,5,3
+5 to 9,Mining and quarrying,2014,1,2,3,4,5,3
+10,Manufacture of food products,2014,1,2,3,4,5,3
+11,Manufacture of beverages,2014,1,2,3,4,5,3
+13,Manufacture of textiles,2014,1,2,3,4,5,3
+14,Manufacture of wearing apparel,2014,1,2,3,4,5,3
+15,Manufacture of leather and related products,2014,1,2,3,4,5,3
+16,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",2014,1,2,3,4,5,3
+17,Manufacture of paper and paper products,2014,1,2,3,4,5,3
+18,Printing and reproduction of recorded media,2014,1,2,3,4,5,3
+19,Manufacture of coke and refined petroleum products,2014,1,2,3,4,5,3
+20,Manufacture of chemicals and chemical products,2014,1,2,3,4,5,3
+21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,2014,1,2,3,4,5,3
+22,Manufacture of rubber and plastic products,2014,1,2,3,4,5,3
+23,Manufacture of other non-metallic mineral products,2014,1,2,3,4,5,3
+24,Manufacture of basic metals,2014,1,2,3,4,5,3
+25,"Manufacture of fabricated metal products, except machinery and equipment",2014,1,2,3,4,5,3
+26,"Manufacture of computer, electronic and optical products",2014,1,2,3,4,5,3
+27,Manufacture of electrical equipment,2014,1,2,3,4,5,3
+28,Manufacture of machinery and equipment n.e.c.,2014,1,2,3,4,5,3
+29,"Manufacture of motor vehicles, trailers and semi-trailers",2014,1,2,3,4,5,3
+30,Manufacture of other transport equipment,2014,1,2,3,4,5,3
+31,Manufacture of furniture,2014,1,2,3,4,5,3
+32,Other manufacturing,2014,1,2,3,4,5,3
+33,Repair and installation of machinery and equipment,2014,1,2,3,4,5,3
+35,"Electricity, gas, steam and air conditioning supply",2014,1,2,3,4,5,3
+36 to 37,"Water collection, treatment and supply and sewerage",2014,1,2,3,4,5,3
+38 to 39,"Waste collection, treatment and disposal activities; Remediation activities and other waste management services",2014,1,2,3,4,5,3
+41,Construction of buildings,2014,1,2,3,4,5,3
+42,Civil engineering,2014,1,2,3,4,5,3
+43,Specialised construction activities,2014,1,2,3,4,5,3
+45,Wholesale and retail trade and repair of motor vehicles and motorcycles,2014,1,2,3,4,5,3
+46,"Wholesale trade, except of motor vehicles and motorcycles",2014,1,2,3,4,5,3
+47,"Retail trade, except of motor vehicles and motorcycles",2014,1,2,3,4,5,3
+49,Land transport and transport via pipelines,2014,1,2,3,4,5,3
+50,Water transport,2014,1,2,3,4,5,3
+51,Air transport,2014,1,2,3,4,5,3
+52,Warehousing and support activities for transportation,2014,1,2,3,4,5,3
+53,Postal and courier activities,2014,1,2,3,4,5,3
+55,Accommodation,2014,1,2,3,4,5,3
+56,Food and beverage service activities,2014,1,2,3,4,5,3
+58,Publishing activities,2014,1,2,3,4,5,3
+59,"Motion picture, video and television programme production, sound recording and music publishing activities",2014,1,2,3,4,5,3
+60,Programming and broadcasting activities,2014,1,2,3,4,5,3
+61,Telecommunications,2014,1,2,3,4,5,3
+62,"Computer programming, consultancy and related activities",2014,1,2,3,4,5,3
+63,Information service activities,2014,1,2,3,4,5,3
+65,"Insurance, reinsurance and pension funding, except compulsory social security",2014,1,2,3,4,5,3
+68,Real estate activities,2014,1,2,3,4,5,3
+69,Legal and accounting activities,2014,1,2,3,4,5,3
+70,Activities of head offices; management consultancy activities,2014,1,2,3,4,5,3
+71,Architectural and engineering activities; technical testing and analysis,2014,1,2,3,4,5,3
+72,Scientific research and development,2014,1,2,3,4,5,3
+73,Advertising and market research,2014,1,2,3,4,5,3
+74,"Other professional, scientific and technical activities",2014,1,2,3,4,5,3
+75,Veterinary activities,2014,1,2,3,4,5,3
+77,Rental and leasing activities,2014,1,2,3,4,5,3
+78,Employment activities,2014,1,2,3,4,5,3
+79,"Travel agency, tour operator and other reservation service and related activities",2014,1,2,3,4,5,3
+80,Security and investigation activities,2014,1,2,3,4,5,3
+81,Services to buildings and landscape activities,2014,1,2,3,4,5,3
+82,"Office administrative, office support and other business support activities",2014,1,2,3,4,5,3
+85,Education,2014,1,2,3,4,5,3
+86,Human health activities,2014,1,2,3,4,5,3
+87,Residential care activities,2014,1,2,3,4,5,3
+88,Social work activities without accommodation,2014,1,2,3,4,5,3
+90,"Creative, arts and entertainment activities",2014,1,2,3,4,5,3
+91,"Libraries, archives, museums and other cultural activities",2014,1,2,3,4,5,3
+92,Gambling and betting activities,2014,1,2,3,4,5,3
+93,Sports activities and amusement and recreation activities,2014,1,2,3,4,5,3
+94,Activities of membership organisations,2014,1,2,3,4,5,3
+95,Repair of computers and personal and household goods,2014,1,2,3,4,5,3
+96,Other personal service activities,2014,1,2,3,4,5,3
+1 to 3,"Agriculture, forestry and fishing",2015,1,2,3,4,5,3
+5 to 9,Mining and quarrying,2015,1,2,3,4,5,3
+10,Manufacture of food products,2015,1,2,3,4,5,3
+11,Manufacture of beverages,2015,1,2,3,4,5,3
+13,Manufacture of textiles,2015,1,2,3,4,5,3
+14,Manufacture of wearing apparel,2015,1,2,3,4,5,3
+15,Manufacture of leather and related products,2015,1,2,3,4,5,3
+16,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",2015,1,2,3,4,5,3
+17,Manufacture of paper and paper products,2015,1,2,3,4,5,3
+18,Printing and reproduction of recorded media,2015,1,2,3,4,5,3
+19,Manufacture of coke and refined petroleum products,2015,1,2,3,4,5,3
+20,Manufacture of chemicals and chemical products,2015,1,2,3,4,5,3
+21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,2015,1,2,3,4,5,3
+22,Manufacture of rubber and plastic products,2015,1,2,3,4,5,3
+23,Manufacture of other non-metallic mineral products,2015,1,2,3,4,5,3
+24,Manufacture of basic metals,2015,1,2,3,4,5,3
+25,"Manufacture of fabricated metal products, except machinery and equipment",2015,1,2,3,4,5,3
+26,"Manufacture of computer, electronic and optical products",2015,1,2,3,4,5,3
+27,Manufacture of electrical equipment,2015,1,2,3,4,5,3
+28,Manufacture of machinery and equipment n.e.c.,2015,1,2,3,4,5,3
+29,"Manufacture of motor vehicles, trailers and semi-trailers",2015,1,2,3,4,5,3
+30,Manufacture of other transport equipment,2015,1,2,3,4,5,3
+31,Manufacture of furniture,2015,1,2,3,4,5,3
+32,Other manufacturing,2015,1,2,3,4,5,3
+33,Repair and installation of machinery and equipment,2015,1,2,3,4,5,3
+35,"Electricity, gas, steam and air conditioning supply",2015,1,2,3,4,5,3
+36 to 37,"Water collection, treatment and supply and sewerage",2015,1,2,3,4,5,3
+38 to 39,"Waste collection, treatment and disposal activities; Remediation activities and other waste management services",2015,1,2,3,4,5,3
+41,Construction of buildings,2015,1,2,3,4,5,3
+42,Civil engineering,2015,1,2,3,4,5,3
+43,Specialised construction activities,2015,1,2,3,4,5,3
+45,Wholesale and retail trade and repair of motor vehicles and motorcycles,2015,1,2,3,4,5,3
+46,"Wholesale trade, except of motor vehicles and motorcycles",2015,1,2,3,4,5,3
+47,"Retail trade, except of motor vehicles and motorcycles",2015,1,2,3,4,5,3
+49,Land transport and transport via pipelines,2015,1,2,3,4,5,3
+50,Water transport,2015,1,2,3,4,5,3
+51,Air transport,2015,1,2,3,4,5,3
+52,Warehousing and support activities for transportation,2015,1,2,3,4,5,3
+53,Postal and courier activities,2015,1,2,3,4,5,3
+55,Accommodation,2015,1,2,3,4,5,3
+56,Food and beverage service activities,2015,1,2,3,4,5,3
+58,Publishing activities,2015,1,2,3,4,5,3
+59,"Motion picture, video and television programme production, sound recording and music publishing activities",2015,1,2,3,4,5,3
+60,Programming and broadcasting activities,2015,1,2,3,4,5,3
+61,Telecommunications,2015,1,2,3,4,5,3
+62,"Computer programming, consultancy and related activities",2015,1,2,3,4,5,3
+63,Information service activities,2015,1,2,3,4,5,3
+65,"Insurance, reinsurance and pension funding, except compulsory social security",2015,1,2,3,4,5,3
+68,Real estate activities,2015,1,2,3,4,5,3
+69,Legal and accounting activities,2015,1,2,3,4,5,3
+70,Activities of head offices; management consultancy activities,2015,1,2,3,4,5,3
+71,Architectural and engineering activities; technical testing and analysis,2015,1,2,3,4,5,3
+72,Scientific research and development,2015,1,2,3,4,5,3
+73,Advertising and market research,2015,1,2,3,4,5,3
+74,"Other professional, scientific and technical activities",2015,1,2,3,4,5,3
+75,Veterinary activities,2015,1,2,3,4,5,3
+77,Rental and leasing activities,2015,1,2,3,4,5,3
+78,Employment activities,2015,1,2,3,4,5,3
+79,"Travel agency, tour operator and other reservation service and related activities",2015,1,2,3,4,5,3
+80,Security and investigation activities,2015,1,2,3,4,5,3
+81,Services to buildings and landscape activities,2015,1,2,3,4,5,3
+82,"Office administrative, office support and other business support activities",2015,1,2,3,4,5,3
+85,Education,2015,1,2,3,4,5,3
+86,Human health activities,2015,1,2,3,4,5,3
+87,Residential care activities,2015,1,2,3,4,5,3
+88,Social work activities without accommodation,2015,1,2,3,4,5,3
+90,"Creative, arts and entertainment activities",2015,1,2,3,4,5,3
+91,"Libraries, archives, museums and other cultural activities",2015,1,2,3,4,5,3
+92,Gambling and betting activities,2015,1,2,3,4,5,3
+93,Sports activities and amusement and recreation activities,2015,1,2,3,4,5,3
+94,Activities of membership organisations,2015,1,2,3,4,5,3
+95,Repair of computers and personal and household goods,2015,1,2,3,4,5,3
+96,Other personal service activities,2015,1,2,3,4,5,3
+1 to 3,"Agriculture, forestry and fishing",2016,1,2,3,4,5,3
+5 to 9,Mining and quarrying,2016,1,2,3,4,5,3
+10,Manufacture of food products,2016,1,2,3,4,5,3
+11,Manufacture of beverages,2016,1,2,3,4,5,3
+13,Manufacture of textiles,2016,1,2,3,4,5,3
+14,Manufacture of wearing apparel,2016,1,2,3,4,5,3
+15,Manufacture of leather and related products,2016,1,2,3,4,5,3
+16,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",2016,1,2,3,4,5,3
+17,Manufacture of paper and paper products,2016,1,2,3,4,5,3
+18,Printing and reproduction of recorded media,2016,1,2,3,4,5,3
+19,Manufacture of coke and refined petroleum products,2016,1,2,3,4,5,3
+20,Manufacture of chemicals and chemical products,2016,1,2,3,4,5,3
+21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,2016,1,2,3,4,5,3
+22,Manufacture of rubber and plastic products,2016,1,2,3,4,5,3
+23,Manufacture of other non-metallic mineral products,2016,1,2,3,4,5,3
+24,Manufacture of basic metals,2016,1,2,3,4,5,3
+25,"Manufacture of fabricated metal products, except machinery and equipment",2016,1,2,3,4,5,3
+26,"Manufacture of computer, electronic and optical products",2016,1,2,3,4,5,3
+27,Manufacture of electrical equipment,2016,1,2,3,4,5,3
+28,Manufacture of machinery and equipment n.e.c.,2016,1,2,3,4,5,3
+29,"Manufacture of motor vehicles, trailers and semi-trailers",2016,1,2,3,4,5,3
+30,Manufacture of other transport equipment,2016,1,2,3,4,5,3
+31,Manufacture of furniture,2016,1,2,3,4,5,3
+32,Other manufacturing,2016,1,2,3,4,5,3
+33,Repair and installation of machinery and equipment,2016,1,2,3,4,5,3
+35,"Electricity, gas, steam and air conditioning supply",2016,1,2,3,4,5,3
+36 to 37,"Water collection, treatment and supply and sewerage",2016,1,2,3,4,5,3
+38 to 39,"Waste collection, treatment and disposal activities; Remediation activities and other waste management services",2016,1,2,3,4,5,3
+41,Construction of buildings,2016,1,2,3,4,5,3
+42,Civil engineering,2016,1,2,3,4,5,3
+43,Specialised construction activities,2016,1,2,3,4,5,3
+45,Wholesale and retail trade and repair of motor vehicles and motorcycles,2016,1,2,3,4,5,3
+46,"Wholesale trade, except of motor vehicles and motorcycles",2016,1,2,3,4,5,3
+47,"Retail trade, except of motor vehicles and motorcycles",2016,1,2,3,4,5,3
+49,Land transport and transport via pipelines,2016,1,2,3,4,5,3
+50,Water transport,2016,1,2,3,4,5,3
+51,Air transport,2016,1,2,3,4,5,3
+52,Warehousing and support activities for transportation,2016,1,2,3,4,5,3
+53,Postal and courier activities,2016,1,2,3,4,5,3
+55,Accommodation,2016,1,2,3,4,5,3
+56,Food and beverage service activities,2016,1,2,3,4,5,3
+58,Publishing activities,2016,1,2,3,4,5,3
+59,"Motion picture, video and television programme production, sound recording and music publishing activities",2016,1,2,3,4,5,3
+60,Programming and broadcasting activities,2016,1,2,3,4,5,3
+61,Telecommunications,2016,1,2,3,4,5,3
+62,"Computer programming, consultancy and related activities",2016,1,2,3,4,5,3
+63,Information service activities,2016,1,2,3,4,5,3
+65,"Insurance, reinsurance and pension funding, except compulsory social security",2016,1,2,3,4,5,3
+68,Real estate activities,2016,1,2,3,4,5,3
+69,Legal and accounting activities,2016,1,2,3,4,5,3
+70,Activities of head offices; management consultancy activities,2016,1,2,3,4,5,3
+71,Architectural and engineering activities; technical testing and analysis,2016,1,2,3,4,5,3
+72,Scientific research and development,2016,1,2,3,4,5,3
+73,Advertising and market research,2016,1,2,3,4,5,3
+74,"Other professional, scientific and technical activities",2016,1,2,3,4,5,3
+75,Veterinary activities,2016,1,2,3,4,5,3
+77,Rental and leasing activities,2016,1,2,3,4,5,3
+78,Employment activities,2016,1,2,3,4,5,3
+79,"Travel agency, tour operator and other reservation service and related activities",2016,1,2,3,4,5,3
+80,Security and investigation activities,2016,1,2,3,4,5,3
+81,Services to buildings and landscape activities,2016,1,2,3,4,5,3
+82,"Office administrative, office support and other business support activities",2016,1,2,3,4,5,3
+85,Education,2016,1,2,3,4,5,3
+86,Human health activities,2016,1,2,3,4,5,3
+87,Residential care activities,2016,1,2,3,4,5,3
+88,Social work activities without accommodation,2016,1,2,3,4,5,3
+90,"Creative, arts and entertainment activities",2016,1,2,3,4,5,3
+91,"Libraries, archives, museums and other cultural activities",2016,1,2,3,4,5,3
+92,Gambling and betting activities,2016,1,2,3,4,5,3
+93,Sports activities and amusement and recreation activities,2016,1,2,3,4,5,3
+94,Activities of membership organisations,2016,1,2,3,4,5,3
+95,Repair of computers and personal and household goods,2016,1,2,3,4,5,3
+96,Other personal service activities,2016,1,2,3,4,5,3
